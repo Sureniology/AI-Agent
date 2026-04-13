@@ -17,15 +17,15 @@ This project solves that problem by building a Travel Advice AI Agent that integ
 -	Multi-step Reasoning – Chains multiple tools to answer complex queries
 
 **Tech Stack**
-•	LLM Framework: LangChain / LangGraph
-•	Model: Azure OpenAI (GPT-based)
-•	APIs Used:
-•	SerpAPI (Google Flights)
-•	Open-Meteo (Weather)
-•	ExchangeRate API (Currency)
-•	Tavily (Search / Travel Insights)
-•	UI: Jupyter Notebook with ipywidgets
-•	Language: Python
+-	LLM Framework: LangChain / LangGraph
+-	Model: Azure OpenAI (GPT-based)
+-	APIs Used:
+-	SerpAPI (Google Flights)
+-	Open-Meteo (Weather)
+-	ExchangeRate API (Currency)
+-	Tavily (Search / Travel Insights)
+-	UI: Jupyter Notebook with ipywidgets
+-	Language: Python
 
 **Project Structure**
 project/
@@ -38,13 +38,13 @@ project/
 └── README.md
 
 **Configuration Environment**
-AZURE_OPENAI_API_KEY=your_key
-AZURE_OPENAI_ENDPOINT=your_endpoint
-AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
-OPENAI_API_VERSION=your_version
+- AZURE_OPENAI_API_KEY=your_key
+- AZURE_OPENAI_ENDPOINT=your_endpoint
+- AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
+- OPENAI_API_VERSION=your_version
 
-SERPAPI_KEY=your_serpapi_key
-TAVILY_API_KEY=your_tavily_key
+- SERPAPI_KEY=your_serpapi_key
+- TAVILY_API_KEY=your_tavily_key
 
 
 
