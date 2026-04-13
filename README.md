@@ -38,16 +38,16 @@ project/
 ├── .env           # API keys and environment variables
 └── README.md
 ```
-
 **Configuration Environment**
-- AZURE_OPENAI_API_KEY=your_key
-- AZURE_OPENAI_ENDPOINT=your_endpoint
-- AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
-- OPENAI_API_VERSION=your_version
+```text
 
-- SERPAPI_KEY=your_serpapi_key
-- TAVILY_API_KEY=your_tavily_key
-
+AZURE_OPENAI_API_KEY=your_key
+AZURE_OPENAI_ENDPOINT=your_endpoint
+AZURE_OPENAI_DEPLOYMENT_NAME=your_deployment
+OPENAI_API_VERSION=your_version
+SERPAPI_KEY=your_serpapi_key
+TAVILY_API_KEY=your_tavily_key
+```
 
 
 
