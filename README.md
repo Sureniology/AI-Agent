@@ -2,7 +2,7 @@
 
 **Travel Advice Agent**
 
-An intelligent tool-integrated AI agent designed to help users plan their trips end-to-end from finding flights to checking weather, estimating budgets and discovering travel insights all in a single conversational interface.****
+An intelligent tool-integrated AI agent designed to help users plan their trips end-to-end from finding flights to checking weather, estimating budgets and discovering travel insights all in a single conversational interface.
 
 **Overview**
 Planning a holiday typically involves switching between multiple platforms searching for flights, checking weather forecasts, comparing currency rates, and browsing travel blogs. This process is often fragmented and time-consuming.
