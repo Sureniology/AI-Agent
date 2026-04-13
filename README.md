@@ -37,7 +37,7 @@ project/
 ├── notebook.ipynb # Interactive UI using widgets
 ├── .env           # API keys and environment variables
 └── README.md
-'''
+text'''
 
 **Configuration Environment**
 - AZURE_OPENAI_API_KEY=your_key
