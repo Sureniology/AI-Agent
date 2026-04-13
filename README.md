@@ -9,12 +9,12 @@ Planning a holiday typically involves switching between multiple platforms — s
 This project solves that problem by building a Travel Advice AI Agent that integrates multiple external services into a unified, conversational experience. The agent is capable of understanding user intent, performing multi-step reasoning, and delivering actionable travel recommendations.
 
 **Key Features**
-•	Flight Search – Retrieve flight options using SerpAPI (Google Flights)
-•	Weather Forecasting – Real-time and forecast weather using Open-Meteo
-•	Currency Conversion – Live exchange rates using ExchangeRate API
-•	Travel Insights – Discover hidden gems and local recommendations using Tavily
-•	Contextual Memory – Maintains conversation context using thread_id
-•	Multi-step Reasoning – Chains multiple tools to answer complex queries
+-	Flight Search – Retrieve flight options using SerpAPI (Google Flights)
+-	Weather Forecasting – Real-time and forecast weather using Open-Meteo
+-	Currency Conversion – Live exchange rates using ExchangeRate API
+-	Travel Insights – Discover hidden gems and local recommendations using Tavily
+-	Contextual Memory – Maintains conversation context using thread_id
+-	Multi-step Reasoning – Chains multiple tools to answer complex queries
 
 **Tech Stack**
 •	LLM Framework: LangChain / LangGraph
