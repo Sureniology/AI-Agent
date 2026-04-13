@@ -34,7 +34,8 @@ project/
 ├── tool.py        # All tool functions (flight, weather, currency, search)
 ├── prompt.py      # Prompt construction logic
 ├── agent.py       # Agent setup (LLM, tools, memory)
-├── notebook.ipynb # Interactive UI using widgets
+├── main.py        # main file for agent execution
+├── jupyter.ipynb # Interactive UI using widgets
 ├── .env           # API keys and environment variables
 └── README.md
 ```
